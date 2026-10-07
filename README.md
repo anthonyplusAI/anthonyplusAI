@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://agithony.com">
+  <a href="https://anthonyplus.ai">
     <img src="https://raw.githubusercontent.com/anthonyjdella/anthonyjdella/main/anthony-logo.svg?sanitize=true">
   </a>
 
@@ -13,7 +13,7 @@
 
 I ~~write code~~ prompt on stage in front of a crowd. You'll find me at meetups, conferences, hackathons, or online communities.
 
-Visit [my website](https://www.agithony.com) and find all its Easter eggs.
+Visit [my website](https://www.anthonyplus.ai) and find all its Easter eggs.
 
 ---
 
